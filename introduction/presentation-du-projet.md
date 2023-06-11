@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Design sans titre (20).png
+coverY: -141
+---
+
 # 📽 Présentation du projet
 
 ## L'association SenUp vous présente Crypto Burok
