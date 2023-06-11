@@ -1,8 +1,8 @@
 # L'utilité du Token
 
-### <mark style="background-color:green;">Burok Coin est une crypto-monnaie révolutionnaire</mark>.
+### <mark style="background-color:green;">Burok Coin est une crypto-monnaie révolutionnaire.</mark>
 
-&#x20;Conçue pour stimuler le changement social et financer des projets politiques progressistes. Son objectif principal est de créer un impact positif dans notre société en abordant des problèmes critiques tels que la pauvreté, l'inégalité et le manque d'accès aux opportunités.
+Conçue pour stimuler le changement social et financer des projets politiques progressistes. Son objectif principal est de créer un impact positif dans notre société en abordant des problèmes critiques tels que la pauvreté, l'inégalité et le manque d'accès aux opportunités.
 
 Grâce à son approche innovante, Burok Coin vise à transformer la façon dont nous soutenons les initiatives sociales et politiques. En investissant dans cette crypto-monnaie, les participants contribuent directement à soutenir des projets concrets axés sur la réduction de la pauvreté, l'amélioration de l'accès à l'éducation, la création d'emplois et l'aide aux communautés les plus vulnérables.
 
@@ -10,7 +10,7 @@ Burok Coin se distingue par sa transparence et sa traçabilité sur la blockchai
 
 En choisissant Burok Coin, vous rejoignez une quête pour un monde meilleur, où les problèmes sociaux et politiques sont abordés de manière innovante et efficace. Ensemble, nous pouvons créer un impact positif durable dans la société et orienter notre pays vers une nouvelle direction, où chaque individu a la possibilité de prospérer.
 
-### <mark style="background-color:green;">Ce qui rend Burok Coin spécial</mark>
+### <mark style="background-color:green;">Ce qui rend Burok Coin spécial !</mark>
 
 #### Explication de son utilité et de sa valeur intrinsèque
 
