@@ -29,4 +29,4 @@
 * [🛣 Roadmap](information/roadmap.md)
 * [📊 Tokenomics](information/tokenomics.md)
 * [👨🏫 Notre équipe](information/notre-equipe.md)
-* [Réseaux sociaux](information/reseaux-sociaux.md)
+* [📡 Réseaux sociaux](information/reseaux-sociaux.md)

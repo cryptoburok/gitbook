@@ -10,4 +10,4 @@ Wallet S.S.I Subvention, Soutien, Investissement de 30%&#x20;
 
 Jetons en libre circulation 45%
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
