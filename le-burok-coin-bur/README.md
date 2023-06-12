@@ -1,5 +1,5 @@
 ---
-description: 'Adresse smartcontract : 0x0354e1812299D646ecF1af96DfbD054aa4eaA411'
+description: 'Adresse smartcontract :'
 ---
 
 # 🪙 Le Burok Coin "BUR"
