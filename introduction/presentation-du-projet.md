@@ -2,11 +2,11 @@
 
 ## L'association SenUp vous présente Crypto Burok
 
-Bienvenue dans ce livre blanc décrivant un projet ambitieux qui vise à révolutionner le financement et à générer des ressources essentielles pour soutenir des projets sociaux et politiques. Nous sommes enthousiastes de vous présenter cette initiative unique créée par une association de jeunes. Ce projet repose sur une crypto-monnaie innovante et transparente appelée BUROK COIN, qui fonctionne sur la blockchain Binance Smart Chain (BEP20).
+Bienvenue dans ce livre blanc décrivant un projet ambitieux qui vise à révolutionner le financement et à générer des ressources essentielles pour soutenir des projets sociaux. Nous sommes enthousiastes de vous présenter cette initiative unique créée par une association de jeunes. Ce projet repose sur une crypto-monnaie innovante et transparente appelée BUROK COIN, qui fonctionne sur la blockchain Binance Smart Chain (BEP20).
 
 Son objectif est de créer un impact positif en soutenant activement les jeunes, les écoles, les projets d'entrepreneuriat et les projets politiques progressistes, afin de réduire la pauvreté, les inégalités et l'accès limité aux opportunités.
 
-Notre approche repose sur l'utilisation d'une crypto-monnaie sécurisée et décentralisée sur le réseau Binance Smart Chain, permettant ainsi aux contributeurs de participer activement à des initiatives sociales, humanitaires et politiques. En investissant dans cette crypto-monnaie, les participants contribueront non seulement à soutenir des projets concrets axés sur la lutte contre la pauvreté, tels que l'accès à l'éducation, la création d'emplois et l'aide aux communautés les plus vulnérables, mais aussi à soutenir en toute sécurité des campagnes politiques et à éliminer la corruption grâce à la traçabilité offerte par la blockchain.
+Notre approche repose sur l'utilisation d'une crypto-monnaie sécurisée et décentralisée sur le réseau Binance Smart Chain, permettant ainsi aux contributeurs de participer activement à des initiatives sociales, humanitaires et politique. En investissant dans cette crypto-monnaie, les participants contribueront non seulement à soutenir des projets concrets axés sur la lutte contre la pauvreté, tels que l'accès à l'éducation, la création d'emplois et l'aide aux communautés les plus vulnérables.
 
 En exploitant la transparence de la blockchain et la traçabilité des transactions, les contributeurs pourront constater de manière tangible l'impact de leurs investissements, renforçant ainsi la confiance et l'engagement envers ce projet.
 
