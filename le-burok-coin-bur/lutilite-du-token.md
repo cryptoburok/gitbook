@@ -20,7 +20,7 @@ La valeur de Burok Coin se renforce également grâce à son rôle dans le finan
 
 De plus, Burok Coin est conçu pour encourager la participation communautaire et la prise de décisions démocratiques. En tant que membre de notre communauté, vous aurez la possibilité de participer activement aux décisions qui concernent l'allocation des fonds et de contribuer à façonner notre projet commun. Cette dimension participative renforce encore davantage la valeur de Burok Coin, car chacun a la possibilité de faire entendre sa voix et de contribuer à un avenir plus juste, équitable et prospère pour tous.
 
-En résumé, Burok Coin offre une utilité concrète en tant que moyen d'échange et de participation au sein de notre écosystème financier décentralisé. Sa valeur intrinsèque provient de son rôle dans le financement de projets politiques et sociaux, ainsi que de son engagement envers la transparence et la participation communautaire. En investissant dans Burok Coin, vous contribuez à façonner un avenir meilleur et à soutenir la campagne de notre parti politique.
+En résumé, Burok Coin offre une utilité concrète en tant que moyen d'échange et de participation au sein de notre écosystème financier décentralisé. Sa valeur intrinsèque provient de son rôle dans le financement de projets politiques et sociaux, ainsi que de son engagement envers la transparence et la participation communautaire.
 
 C'est aussi sa base technologique solide reposant sur la blockchain. Cette technologie de pointe garantit la transparence, la sécurité et la traçabilité de toutes les transactions effectuées avec Burok Coin. En utilisant la blockchain, nous offrons un système financier décentralisé et fiable, permettant une utilisation efficace et traçable des fonds.
 
