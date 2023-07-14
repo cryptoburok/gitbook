@@ -14,11 +14,7 @@ Boubacar Sow est un communicateur habile et un négociateur chevronné. Il joue 
 
 &#x20;Moustapha Sow est un stratège en communication talentueux. Il est chargé de faire connaître notre projet et de sensibiliser le public à nos objectifs. Grâce à ses compétences en relations publiques et en marketing, il crée une forte présence médiatique pour la crypto Burok Coin, attirant l'attention sur notre plateforme de financement participatif novatrice.
 
-### Lucas - CTO, Développeur et ingénieur de Crypto Burok
-
 Lucas possède une solide expérience dans le domaine du développement et de l'ingénierie. En tant que CTO, il supervise la mise en œuvre technique du Burok Coin et s'assure de la sécurité, de la fiabilité et des performances de notre plateforme. Son expertise technique est essentielle pour garantir une expérience utilisateur optimale.
-
-### Charles - COO, Développeur et designer de Crypto Burok&#x20;
 
 Charles est un développeur talentueux et un designer créatif. En tant que COO, il joue un rôle crucial dans le développement de l'aspect design et convivialité de notre plateforme. Son attention aux détails et sa connaissance approfondie des meilleures pratiques en matière de projet garantissent une interface utilisateur intuitive et attrayante.
 
